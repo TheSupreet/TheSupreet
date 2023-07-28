@@ -4,4 +4,4 @@ I'm Supreet Kurdekar, i am an aspiring Developer. I really enjoy learning langua
 U can Check me in LinkedIn: [Supreet_Kurdekar](https://www.linkedin.com/in/supreet-kurdekar-82b3ba242)
 
 
-![TheSupreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSupreet&show=reviews)
+[![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSupreet)](https://github.com/TheSupreet/github-readme-stats)
