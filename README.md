@@ -1,6 +1,7 @@
 ### Hi there 👋, Supreet Kurdekar
 #### Design and Development
-![Design and Development]("C:\Users\Supreet\Downloads\Minimal Modern Elegant Background Technology Banner (1).jpg")
+![Design and Development](https://github.com/TheSupreet/TheSupreet/assets/119513422/e017bf56-231b-4d90-89ea-d75e453c5782)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
