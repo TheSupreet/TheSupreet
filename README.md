@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Supreet Kurdekar
+#### Design and Development
+![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Supreet Kurdekar, i am an aspiring Developer. I really enjoy learning languages and frameworks like React and Flask . I like to write Poems and Stories in general.
-U can Check me in LinkedIn: [Supreet_Kurdekar](https://www.linkedin.com/in/supreet-kurdekar-82b3ba242)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Flask / Python / JS / HTML / CSS
+
+- 🔭 I’m currently working on myself 
+- 📫 How to reach me: Phone:9353782856 
 
 
-[![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSupreet)](https://github.com/TheSupreet/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheSupreet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/supreet-kurdekar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/TheSupreet/Portfolio)  
+
