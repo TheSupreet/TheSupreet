@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 ![Minimal Modern Elegant Background Technology Banner (1)](https://github.com/TheSupreet/TheSupreet/assets/119513422/17c0a9eb-faf5-4ef4-9e31-7c889d9f6341)
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0dPypr7XWGp4p4OEAA438J&ust=1690739643866000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjT3Y--tIADFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesupreet&label=Profile%20views&color=0e75b6&style=flat" alt="thesupreet" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
