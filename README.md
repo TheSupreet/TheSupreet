@@ -36,10 +36,4 @@
 </p>  -->  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesupreet&show_icons=true&locale=en&layout=compact" alt="thesupreet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesupreet&show_icons=true&locale=en" alt="thesupreet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesupreet&" alt="thesupreet" /></p>
-
 
